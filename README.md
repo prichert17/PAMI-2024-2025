@@ -1,4 +1,4 @@
-# 🤖 PAMI 2025 — Petit Actionneur Mobile Indépendant
+# PAMI 2025 — Petit Actionneur Mobile Indépendant
 
 <p align="center">
   <img src="images/image39.png" height="80" alt="Logo Polytech" />
@@ -16,7 +16,7 @@
 
 ---
 
-## 📌 Sommaire
+## Sommaire
 
 1. [Présentation et Contexte](#-1-présentation-et-contexte)
    * [Introduction](#11-introduction)
@@ -42,7 +42,7 @@
 
 ---
 
-## 📖 1. Présentation et Contexte
+## 1. Présentation et Contexte
 
 ### 1.1. Introduction
 
@@ -93,7 +93,7 @@ Le second objectif réglementaire consiste à activer un **actionneur de fin de 
 
 ---
 
-## ⚙️ 2. Spécifications et Architecture Matérielle
+## 2. Spécifications et Architecture Matérielle
 
 ### 2.1. Objectifs techniques
 
@@ -159,7 +159,7 @@ Les tests de validation en conditions réelles (15 secondes) s'effectuent en tro
 
 ---
 
-## 🛠️ 3. Conception et Réalisation Technique
+## 3. Conception et Réalisation Technique
 
 ### 3.1. Conception et modélisation 3D des PAMI
 
@@ -485,7 +485,7 @@ Nous avons conçu un actionneur piloté par un servomoteur sur lequel est direct
 
 ---
 
-## 📦 4. Livrables et Ressources
+## 4. Livrables et Ressources
 
 L'ensemble des ressources produites dans le cadre de ce projet est regroupé sur les plateformes suivantes :
 
@@ -501,7 +501,7 @@ L'ensemble des ressources produites dans le cadre de ce projet est regroupé sur
 
 ---
 
-## 🚀 5. Perspectives d'amélioration et Conclusion
+## 5. Perspectives d'amélioration et Conclusion
 
 ### 5.1. Pistes d'amélioration
 
@@ -516,7 +516,7 @@ Ce projet technique a permis de concevoir, fabriquer et valider une nouvelle gé
 
 ---
 
-## 📚 Glossaire
+## Glossaire
 
 * **CDFR :** Coupe de France de Robotique.
 * **I2C :** *Inter-Integrated Circuit*, protocole de communication série synchrone.
